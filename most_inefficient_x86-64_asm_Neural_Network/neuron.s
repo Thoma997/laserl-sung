@@ -11,5 +11,5 @@ input_neuron:
 
 neuron:
   call set_weight
-
+  
   mov %activation, %RSI
